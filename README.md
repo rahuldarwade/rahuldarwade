@@ -40,3 +40,14 @@ Passionate developer building useful digital products. I create PWAs, Roblox gam
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldarwade&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldarwade&layout=compact&theme=radical)
+
+---
+
+## 📋 Let's Connect
+
+- 👋 Open to opportunities, freelance work, and collaborations
+- 🐦 X / Twitter: [@HireMeForTask](https://x.com/HireMeForTask)
+
+---
+
+<p align="center">Thanks for stopping by! ✨</p>
