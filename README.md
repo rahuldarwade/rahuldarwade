@@ -21,3 +21,14 @@ Passionate developer building useful digital products. I create PWAs, Roblox gam
 - **Languages**: JavaScript, Python, Lua (Roblox), PHP, HTML/CSS
 - **Frameworks & Tools**: Flask, Tailwind, PWA (Service Workers, Manifest), Roblox Studio + Rojo, Git
 - **Interests**: AI Agents, Automation, Mobile PWAs, Game Dev, UI/UX
+
+---
+
+## ⭐ Featured Projects
+
+- [FORGE Progress Tracker](https://github.com/rahuldarwade/forge-progress-tracker) — Streak-based PWA for physique, study & goals
+- [Pocket Run](https://github.com/rahuldarwade/pocket-run) — Run code/projects on Android phone via beautiful PWA
+- [Clothora](https://github.com/rahuldarwade/clothora) — AI-powered visual clothing discovery app (Pinterest for outfits)
+- [Aetheria Skies](https://github.com/rahuldarwade/Aetheria-Skies-Roblox) — Floating sky city builder on Roblox
+- [CityForge](https://github.com/rahuldarwade/CityForge-Roblox) — Expandable city builder inspired by Cities: Skylines
+- [Anime Recs](https://github.com/rahuldarwade/anime-Reccommendation-system) — Flask anime recommendation system
