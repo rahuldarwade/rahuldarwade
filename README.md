@@ -32,3 +32,11 @@ Passionate developer building useful digital products. I create PWAs, Roblox gam
 - [Aetheria Skies](https://github.com/rahuldarwade/Aetheria-Skies-Roblox) — Floating sky city builder on Roblox
 - [CityForge](https://github.com/rahuldarwade/CityForge-Roblox) — Expandable city builder inspired by Cities: Skylines
 - [Anime Recs](https://github.com/rahuldarwade/anime-Reccommendation-system) — Flask anime recommendation system
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldarwade&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldarwade&layout=compact&theme=radical)
